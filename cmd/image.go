@@ -5,8 +5,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"wallgen/internal/generator"
-	"wallgen/internal/tui"
+	"github.com/osrcmap/wallgen/internal/generator"
+	"github.com/osrcmap/wallgen/internal/tui"
 )
 
 func imageCmd() *cobra.Command {

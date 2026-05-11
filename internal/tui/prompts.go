@@ -8,8 +8,8 @@ import (
 
 	"github.com/charmbracelet/huh"
 
-	"wallgen/internal/config"
-	"wallgen/internal/generator"
+	"github.com/osrcmap/wallgen/internal/config"
+	"github.com/osrcmap/wallgen/internal/generator"
 )
 
 // ---- validators ----

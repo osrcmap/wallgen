@@ -6,8 +6,8 @@ import (
 	"math/cmplx"
 	"math/rand"
 
-	"wallgen/internal/config"
-	"wallgen/internal/render"
+	"github.com/osrcmap/wallgen/internal/config"
+	"github.com/osrcmap/wallgen/internal/render"
 )
 
 type MathKind string

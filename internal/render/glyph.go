@@ -17,7 +17,7 @@ import (
 	"golang.org/x/image/font/opentype"
 	"golang.org/x/image/math/fixed"
 
-	"wallgen/internal/config"
+	"github.com/osrcmap/wallgen/internal/config"
 )
 
 var (

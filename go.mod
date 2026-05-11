@@ -1,4 +1,4 @@
-module wallgen
+module github.com/osrcmap/wallgen
 
 go 1.23
 

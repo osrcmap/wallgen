@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"wallgen/cmd"
+	"github.com/osrcmap/wallgen/cmd"
 )
 
 func main() {

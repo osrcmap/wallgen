@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	"wallgen/internal/config"
-	"wallgen/internal/render"
-	"wallgen/internal/tui"
+	"github.com/osrcmap/wallgen/internal/config"
+	"github.com/osrcmap/wallgen/internal/render"
+	"github.com/osrcmap/wallgen/internal/tui"
 )
 
 // dims resolves choices into final canvas dimensions and pixel aspect.

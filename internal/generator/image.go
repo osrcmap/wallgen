@@ -10,8 +10,8 @@ import (
 
 	"golang.org/x/image/draw"
 
-	"wallgen/internal/config"
-	"wallgen/internal/render"
+	"github.com/osrcmap/wallgen/internal/config"
+	"github.com/osrcmap/wallgen/internal/render"
 )
 
 // Image decodes path, resizes to canvas dims (correcting cell aspect 2:1),

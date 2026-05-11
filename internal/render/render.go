@@ -3,7 +3,7 @@ package render
 import (
 	"strings"
 
-	"wallgen/internal/config"
+	"github.com/osrcmap/wallgen/internal/config"
 )
 
 // Ramps from dark to light.
