@@ -2,7 +2,7 @@
 
 Terminal wallpaper generator — fractals, IFS, curves, and image-to-ASCII, output as text, braille, or full-color PNG.
 
-![hero — burning ship in fire palette](docs/gallery/hero.png)
+![hero — burning ship in fire palette](docs/gallery/julia-txt.png)
 
 ## Gallery
 
